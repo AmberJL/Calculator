@@ -6,6 +6,7 @@ import java.util.Stack;
 public class cal{
     private String res;
     private String result;
+//构造方法
     public cal(String s){
         this.res = s;
         try {
