@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="len" >
+        <item>厘米</item>
+        <item>米</item>
+        <item>公里</item>
+    </string-array>
+    <string-array name="V" >
+        <item>cm^3</item>
+        <item>dm^3</item>
+        <item>m^3</item>
+    </string-array>
+    <string-array name="jinzhi" >
+        <item>十</item>
+        <item>八</item>
+        <item>二</item>
+    </string-array>
+    <string-array name="huilv">
+        <item>人民币</item>
+        <item>美元</item>
+    </string-array>
+</resources>
